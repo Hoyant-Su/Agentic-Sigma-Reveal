@@ -1,5 +1,5 @@
 {
   "projectTitle": "Agentic Sigma-Reveal",
   "description": "Task-conditioned workspace context selection for CLI agent harnesses with ancestor-closed tree knapsack and explicit character budgets.",
-  "folders": ["skills"]
+  "folders": ["skills", "examples"]
 }

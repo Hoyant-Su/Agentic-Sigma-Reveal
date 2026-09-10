@@ -35,4 +35,17 @@ The reference implementation scores task-name matches, depth, and extension/task
 
 Source: [Learning CLI Agents with Structured Action Credit under Selective Observation, section 3.2](https://arxiv.org/html/2605.08013v1#S3.SS2). This standalone extraction preserves the original scoring, traversal, rendering, and optimization at the default budget. Budgets below 16 characters return an empty view. The paper formulates a token-budget objective; its released implementation uses character buckets. This package exposes that implementation's units explicitly.
 
-When documenting this method in research, use the original paper metadata in the repository's `references.bib`. The package supplies a workspace observation component; downstream harness evaluation must establish its effects on each task and model.
+## Method reference
+
+The following entry identifies the paper introducing the workspace observation method used here.
+
+```bibtex
+@article{su2026structuredactioncredit,
+  title = {Learning CLI Agents with Structured Action Credit under Selective Observation},
+  author = {Su, Haoyang and Wen, Ying},
+  year = {2026},
+  journal = {arXiv preprint arXiv:2605.08013},
+  doi = {10.48550/arXiv.2605.08013},
+  url = {https://arxiv.org/abs/2605.08013}
+}
+```
