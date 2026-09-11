@@ -43,6 +43,8 @@ The selector inspects up to four levels and reads up to 160 bytes per file for a
 
 ## Harness integration
 
+See [initial workspace context selection](examples/workspace-context-selection.md) for selection rules, budget units, and the relationship to repository maps.
+
 `examples/deepagents_initial_context.py` supplies a static selected view to Deep Agents before its first action. See `examples/deepagents.md` for invocation and scope.
 
 ## Method reference
