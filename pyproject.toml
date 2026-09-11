@@ -8,7 +8,7 @@ version = "0.2.0"
 description = "Task-conditioned, budgeted initial workspace observation for CLI agent harnesses"
 requires-python = ">=3.10"
 readme = "USAGE.md"
-keywords = ["agent-harness", "context-selection", "cli-agent", "sigma-reveal"]
+keywords = ["agent-harness", "context-selection", "cli-agent", "sigma-reveal", "terminal-agent", "workspace-context", "filesystem-observation", "context-budget"]
 
 [project.optional-dependencies]
 mcp = ["mcp>=2.2,<3"]

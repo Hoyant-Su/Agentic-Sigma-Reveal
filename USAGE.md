@@ -1,6 +1,6 @@
 # Agentic Sigma-Reveal
 
-Task-conditioned initial workspace observations for agent harnesses, with ancestor-closed tree selection under a character budget.
+Task-conditioned initial workspace context selection for terminal and CLI agent harnesses, with ancestor-closed filesystem tree selection under a character budget.
 
 ```bash
 pip install git+https://github.com/Hoyant-Su/Agentic-Sigma-Reveal.git
